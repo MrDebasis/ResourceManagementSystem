@@ -51,6 +51,15 @@ public class ResourceService {
 		return resources;
 
 	}
+	public List<Resources> findAll(){
+		return resourceRepo.findAll();
+
+	}
+	public void deleteById(String id) {
+		resourceRepo.deleteById(id);
+		
+		
+	}
 }
 
 

@@ -1,6 +1,12 @@
+com\resource\constant\StringConstants.class
 com\resource\service\ResourceService.class
+com\resource\exception\ForgetPasswordException.class
 com\resource\model\Resources.class
-com\resource\ResourceManagementSystemApplication.class
 com\resource\constant\ConstantKeys.class
 com\resource\controller\ResourceController.class
 com\resource\repository\ResourceRepo.class
+com\resource\exception\RegistractionException.class
+com\resource\service\ExcelGenerator.class
+com\resource\exception\FilterExceptin.class
+com\resource\ResourceManagementSystemApplication.class
+com\resource\exception\LoginException.class

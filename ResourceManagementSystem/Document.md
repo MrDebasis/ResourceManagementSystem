@@ -36,3 +36,28 @@
 
 #EXCEL SHEET:  #URL----http://localhost:8088/resource/{STATUS}/{TYPE}/{CITY}/download/Resources.xlsx
 #EXAMPLE: http://localhost:8088/resource/inactive/fresher/banglore/download/Resources.xlsx
+
+
+
+#DeleteById:http://localhost:8088/resource/delete/{employeeId}
+#Example: http://localhost:8088/resource/delete/79
+#Mehod: Delete
+
+#FindAll: http://localhost:8088/resource/filter/all
+#method: get
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
