@@ -1,0 +1,6 @@
+com\resource\service\ResourceService.class
+com\resource\model\Resources.class
+com\resource\ResourceManagementSystemApplication.class
+com\resource\constant\ConstantKeys.class
+com\resource\controller\ResourceController.class
+com\resource\repository\ResourceRepo.class

@@ -1,0 +1,11 @@
+create table Resources(country varchar(255),globalGroupID varchar(255),employeeId varchar(255),
+emailId varchar(255) NOT NULL,
+password varchar(255) NOT NULL,
+name varchar(255),
+localGrade varchar(255),
+leaveApplied varchar(255),
+status varchar(255),
+grade varchar(255),
+type varchar(255) not null,
+officeCity varchar(255) not null,
+CONSTRAINT contacts_pk PRIMARY KEY (employeeId));
